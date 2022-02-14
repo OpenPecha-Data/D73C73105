@@ -14,21 +14,21 @@ annotations:
     reference: ''
     span:
       start: 699
-      end: 1976
+      end: 1975
     note_ref: caff5d0c09b540ec98ae232df361c839
   25e5e9db8b3a473cad3b5c04fd3d2291:
     imgnum: 26
     reference: ''
     span:
-      start: 1978
-      end: 3274
+      start: 1977
+      end: 3269
     note_ref: caff5d0c09b540ec98ae232df361c839
   caff5d0c09b540ec98ae232df361c839:
     imgnum: 27
     reference: ''
     span:
-      start: 3276
-      end: 3614
+      start: 3271
+      end: 3609
     note_ref: caff5d0c09b540ec98ae232df361c839
 local_ids:
   b560b54fc5824100b89f20d4fcb0a0d7: 200000
